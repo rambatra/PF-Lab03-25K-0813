@@ -6,5 +6,5 @@ I am currently studying **Computer Science (BSCS)** at **FAST University, Karach
 I am passionate about technology and always eager to:  
  - Learn programming fundamentals and problem-solving  
   - Explore different areas of computer science  
- -Grow as a programmer and improve my skills
+    -Grow as a programmer and improve my skills
 
